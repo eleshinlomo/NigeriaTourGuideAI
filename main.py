@@ -3,6 +3,7 @@ Welcome to the first Virtual Tour Guide in Nigeria. If you are looking for a pla
 # and maybe have decided to visit Nigeria, this Virtual AI Chatbox will guide you through things to expect
 and places to visit in Nigeria to make your visit to Africa one of the best.
 
+Other cities will soon be added once app is fully developed.
 """
 print("Nigeria is the largest black nation in the world with over 200 million population.")
 print("60% of the entire population is young.")
